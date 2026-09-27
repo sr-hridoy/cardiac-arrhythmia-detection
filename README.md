@@ -8,9 +8,9 @@
 </p>
 
 ## 📌 Project Overview
-This repository contains a robust deep learning pipeline for predicting cardiac arrhythmias from Electrocardiogram (ECG) signals. The project focuses on a **Dual-Scale 1D Convolutional Neural Network (CNN)** designed to capture both fine morphological beat features (intra-beat) and broader rhythm dynamics (inter-beat).
+This repository presents a robust machine learning and deep learning pipeline for cardiac arrhythmia classification from Electrocardiogram (ECG) signals. The project aims to develop and evaluate both Machine Learning (ML) and Deep Learning (DL) models that capture complementary ECG characteristics, including dual Scale (Intra-Beat Morphology and Inter-Beat Rhythm).
 
-To ensure clinical relevance and prevent data leakage, the models are evaluated under a strict, patient-independent **Leave-One-Subject-Out (LOSO)** cross-validation protocol.
+To enhance clinical relevance and minimize the risk of data leakage, all models are evaluated using a strict, patient-independent **Leave-One-Subject-Out (LOSO)** cross-validation protocol.
 
 ## 📊 Dataset
 The models are trained and evaluated on the widely recognized **MIT-BIH Arrhythmia Database**. 
