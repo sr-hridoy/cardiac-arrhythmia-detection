@@ -58,8 +58,12 @@ The Dual-Scale 1D CNN achieved the following aggregate performance under the LOS
    pip install -r requirements.txt
    ```
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
+
 **Md. Shaifur Rahman Hridoy**  
+*B.Sc. in Computer Science and Engineering, Leading University*  
+
+**Md Shofioul Alam Shelon**  
 *B.Sc. in Computer Science and Engineering, Leading University*  
 
 Feel free to reach out or open an issue if you have questions about the implementation or research methodology!
