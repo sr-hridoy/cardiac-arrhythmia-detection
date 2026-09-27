@@ -1,5 +1,4 @@
-# Cardiac Arrhythmia Prediction using Dual-Scale 1D CNN
-
+# Patient-Independent Cardiac Arrhythmia Detection via Multi-Channel Focal-Context DL and ML
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c.svg" alt="PyTorch">
@@ -48,8 +47,8 @@ The Dual-Scale 1D CNN achieved the following aggregate performance under the LOS
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sr-hridoy/cardiac-arrhythmia-prediction.git
-   cd cardiac-arrhythmia-prediction
+   git clone https://github.com/sr-hridoy/cardiac-arrhythmia-detection.git
+   cd cardiac-arrhythmia-detection
    ```
 
 2. **Install dependencies:**
